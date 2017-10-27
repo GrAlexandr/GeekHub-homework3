@@ -56,7 +56,7 @@
 
 	//Benchmarking
 
-	console.log( "Бенчмаркинг" );
+	console.log( "Бенчмаркінг" );
 
 	console.time("All Benchmarks");
 
@@ -109,7 +109,7 @@
 
 	//Benchmarking
 
-	console.log( "Бенчмаркинг" );
+	console.log( "Бенчмаркінг" );
 
 	console.time("All Benchmarks");
 
@@ -181,7 +181,7 @@
 
 	//Benchmarking
 
-	console.log( "Бенчмаркинг" );
+	console.log( "Бенчмаркінг" );
 
 	console.time("All Benchmarks");
 
@@ -202,5 +202,7 @@
 	console.timeEnd("sumDigitsRec");
 
 	console.timeEnd("All Benchmarks");
+
+	console.log( "==============================================" );
 
 })();
